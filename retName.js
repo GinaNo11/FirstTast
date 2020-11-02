@@ -7,5 +7,6 @@ function retName(firstName , lastName){
 }
 
 var fullName = retName(firstName ,lastName);
-alert(fullName);
+alert("the Full Name is : "+ fullName);
+//console.log("the Full Name is : "+ fullName);
  
